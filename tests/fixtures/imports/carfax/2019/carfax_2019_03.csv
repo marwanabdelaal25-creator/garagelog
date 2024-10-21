@@ -1,0 +1,28 @@
+bed,section,row,plant_name,species,quantity,notes
+Bed-1,Office,1,Plant 0,Monstera,2,xxx
+Bed-2,Bedroom,2,Plant 1,ZZ Plant,1,x
+Bed-3,Office,3,Plant 2,Monstera,1,xxxxxx
+Bed-4,Office,4,Plant 3,ZZ Plant,1,xxxxx
+Bed-1,Bedroom,5,Plant 4,Snake Plant,1,
+Bed-2,Kitchen,6,Plant 5,Pothos,3,xxxxxxxxxxxxxxx
+Bed-3,Living Room,1,Plant 6,ZZ Plant,3,xxxxxxxxxxxx
+Bed-4,Kitchen,2,Plant 7,Monstera,2,xxxxxxxxxxxxxxxxxxxx
+Bed-1,Kitchen,3,Plant 8,ZZ Plant,1,xxxxxxxxxxxxxxxxxx
+Bed-2,Office,4,Plant 9,Snake Plant,2,
+Bed-3,Kitchen,5,Plant 10,Monstera,3,xxxxxxx
+Bed-4,Bedroom,6,Plant 11,Pothos,2,xxxxxx
+Bed-1,Kitchen,1,Plant 12,Pothos,2,xxxxxxxxxxxxxxx
+Bed-2,Bedroom,2,Plant 13,Monstera,2,xxxxxxxxxxxxxxxxxx
+Bed-3,Office,3,Plant 14,ZZ Plant,1,xxxxxxxxxxxxxxxxxxx
+Bed-4,Kitchen,4,Plant 15,Pothos,1,xxxxxxxxxxxxxxxxxxxx
+Bed-1,Living Room,5,Plant 16,ZZ Plant,2,xxxxxxxxx
+Bed-2,Living Room,6,Plant 17,Snake Plant,3,xxxxxxx
+Bed-3,Bedroom,1,Plant 18,ZZ Plant,1,
+Bed-4,Kitchen,2,Plant 19,Monstera,3,xxxxxxxxx
+Bed-1,Bedroom,3,Plant 20,ZZ Plant,3,xxxx
+Bed-2,Living Room,4,Plant 21,Pothos,1,xxxxxx
+Bed-3,Living Room,5,Plant 22,ZZ Plant,1,xxxxxxxxxxxxxxxxx
+Bed-4,Bedroom,6,Plant 23,Pothos,2,xxxxxxxxxxxxxxxxxxxx
+Bed-1,Bedroom,1,Plant 24,Pothos,3,xxxxxx
+Bed-2,Kitchen,2,Plant 25,Monstera,2,xxxxxx
+Bed-3,Living Room,3,Plant 26,ZZ Plant,3,xxxxxxxxxxxxxxxxxxxx

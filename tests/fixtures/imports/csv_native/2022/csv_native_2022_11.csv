@@ -1,0 +1,16 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,pothos,Office,14,2019-08-10,xxxxxxxxxxxxx
+Plant 1,monstera,Bedroom,14,2024-09-07,xxxxxxxx
+Plant 2,snake-plant,Living Room,10,2020-05-07,xxxx
+Plant 3,pothos,Kitchen,7,2020-07-22,xxxxxxxxxxxxxx
+Plant 4,pothos,Living Room,10,2021-10-18,xxxxxxxxxx
+Plant 5,monstera,Living Room,14,2022-08-27,xxxxxxxxxxxxxxxx
+Plant 6,monstera,Bedroom,5,2025-01-03,xxxxxxxxxxxxxx
+Plant 7,zz-plant,Office,5,2019-06-24,xxxxxxxxxxxx
+Plant 8,snake-plant,Bedroom,7,2021-11-16,xxxxxxxxxxxxxxxxxxx
+Plant 9,monstera,Office,10,2025-04-25,xxxxxxxxxxxxxxxxx
+Plant 10,monstera,Bedroom,7,2025-10-12,xxxxxxx
+Plant 11,monstera,Office,5,2023-06-13,xxxxxx
+Plant 12,pothos,Kitchen,10,2022-12-05,xxxxx
+Plant 13,monstera,Living Room,5,2023-02-09,xxxxxxxxxxxxxxxxxx
+Plant 14,snake-plant,Office,14,2021-10-16,xxxxxxxxx

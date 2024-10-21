@@ -1,0 +1,1062 @@
+{
+  "schema_version": 2,
+  "meta": {
+    "name": "persona-weekend_truck",
+    "persona": "single_make_only"
+  },
+  "vehicles": [
+    {
+      "id": "bn-2024-000000",
+      "name": "Fresh Subaru Outback #0",
+      "make_key": "bmw-328i",
+      "bay_id": "st-garage-bay-a",
+      "service_interval_days": 3,
+      "last_serviced": "2024-06-11",
+      "purchase_date": "2024-06-03",
+      "labor_hours": 15,
+      "tag_ids": [],
+      "notes": ""
+    },
+    {
+      "id": "bn-2024-000001",
+      "name": "Sample Hyundai Elantra #1",
+      "make_key": "bmw-328i",
+      "bay_id": "st-brake_service-bar",
+      "service_interval_days": 7,
+      "last_serviced": "2024-11-23",
+      "purchase_date": "2024-11-13",
+      "labor_hours": 15,
+      "tag_ids": [],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2025-000002",
+      "name": "Fresh Ford F150 #2",
+      "make_key": "hyundai-elantra",
+      "bay_id": "st-driveway",
+      "service_interval_days": 5,
+      "last_serviced": "2025-05-12",
+      "purchase_date": "2025-05-03",
+      "labor_hours": 12,
+      "tag_ids": [],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2021-000003",
+      "name": "Fresh Honda Civic #3",
+      "make_key": "toyota-camry",
+      "bay_id": "st-brake_service-bar",
+      "service_interval_days": 1,
+      "last_serviced": "2021-12-20",
+      "purchase_date": "2021-12-16",
+      "labor_hours": 15,
+      "tag_ids": [
+        "tag-4"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2024-000004",
+      "name": "Resting Bmw 328I #4",
+      "make_key": "mazda-cx5",
+      "bay_id": "st-driveway",
+      "service_interval_days": 7,
+      "last_serviced": "2024-10-03",
+      "purchase_date": "2024-09-07",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-2",
+        "tag-8"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2024-000005",
+      "name": "Old Subaru Outback #5",
+      "make_key": "audi-a4",
+      "bay_id": "st-workbench",
+      "service_interval_days": 5,
+      "last_serviced": "2024-05-19",
+      "purchase_date": "2024-05-17",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-7",
+        "tag-7"
+      ],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2025-000006",
+      "name": "Fresh Hyundai Elantra #6",
+      "make_key": "tesla-model3",
+      "bay_id": "st-driveway",
+      "service_interval_days": 5,
+      "last_serviced": "2025-05-01",
+      "purchase_date": "2025-04-17",
+      "labor_hours": 20,
+      "tag_ids": [],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2025-000007",
+      "name": "Backup Ford F150 #7",
+      "make_key": "honda-civic",
+      "bay_id": "st-driveway",
+      "service_interval_days": 2,
+      "last_serviced": "2025-11-19",
+      "purchase_date": "2025-11-12",
+      "labor_hours": 15,
+      "tag_ids": [
+        "tag-5",
+        "tag-11"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2022-000008",
+      "name": "Old Jeep Wrangler #8",
+      "make_key": "ford-f150",
+      "bay_id": "st-storage-unit",
+      "service_interval_days": 3,
+      "last_serviced": "2022-03-12",
+      "purchase_date": "2022-03-09",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-12",
+        "tag-2"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2022-000009",
+      "name": "Old Ford F150 #9",
+      "make_key": "toyota-camry",
+      "bay_id": "st-workbench",
+      "service_interval_days": 2,
+      "last_serviced": "2022-09-10",
+      "purchase_date": "2022-09-08",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-4"
+      ],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2020-000010",
+      "name": "Resting Subaru Outback #10",
+      "make_key": "bmw-328i",
+      "bay_id": "st-storage-unit",
+      "service_interval_days": 7,
+      "last_serviced": "2020-05-04",
+      "purchase_date": "2020-04-28",
+      "labor_hours": 15,
+      "tag_ids": [
+        "tag-8",
+        "tag-5"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2020-000011",
+      "name": "Resting Hyundai Elantra #11",
+      "make_key": "toyota-camry",
+      "bay_id": "st-workbench",
+      "service_interval_days": 1,
+      "last_serviced": "2020-11-08",
+      "purchase_date": "2020-11-04",
+      "labor_hours": 15,
+      "tag_ids": [],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2024-000012",
+      "name": "Backup Ford F150 #12",
+      "make_key": "subaru-outback",
+      "bay_id": "st-workbench",
+      "service_interval_days": 1,
+      "last_serviced": "2024-01-12",
+      "purchase_date": "2024-01-11",
+      "labor_hours": 12,
+      "tag_ids": [
+        "tag-6",
+        "tag-5"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bn-2021-000013",
+      "name": "Peak Mazda Cx5 #13",
+      "make_key": "honda-civic",
+      "bay_id": "st-garage-bay-a",
+      "service_interval_days": 3,
+      "last_serviced": "2021-07-18",
+      "purchase_date": "2021-07-10",
+      "labor_hours": 20,
+      "tag_ids": [],
+      "notes": ""
+    },
+    {
+      "id": "bn-2024-000014",
+      "name": "Fresh Subaru Outback #14",
+      "make_key": "audi-a4",
+      "bay_id": "st-odometer-zone",
+      "service_interval_days": 3,
+      "last_serviced": "2024-07-27",
+      "purchase_date": "2024-07-24",
+      "labor_hours": 12,
+      "tag_ids": [],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2020-000015",
+      "name": "Peak Toyota Camry #15",
+      "make_key": "ford-f150",
+      "bay_id": "st-brake_service-bar",
+      "service_interval_days": 7,
+      "last_serviced": "2020-03-08",
+      "purchase_date": "2020-02-14",
+      "labor_hours": 18,
+      "tag_ids": [],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2020-000016",
+      "name": "Peak Tesla Model3 #16",
+      "make_key": "honda-civic",
+      "bay_id": "st-odometer-zone",
+      "service_interval_days": 2,
+      "last_serviced": "2020-03-17",
+      "purchase_date": "2020-03-12",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-1",
+        "tag-9"
+      ],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2020-000017",
+      "name": "Fresh Tesla Model3 #17",
+      "make_key": "ford-f150",
+      "bay_id": "st-workbench",
+      "service_interval_days": 5,
+      "last_serviced": "2020-05-31",
+      "purchase_date": "2020-05-15",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-3"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2023-000018",
+      "name": "Backup Mazda Cx5 #18",
+      "make_key": "mazda-cx5",
+      "bay_id": "st-brake_service-bar",
+      "service_interval_days": 5,
+      "last_serviced": "2023-09-29",
+      "purchase_date": "2023-09-28",
+      "labor_hours": 15,
+      "tag_ids": [
+        "tag-11",
+        "tag-9"
+      ],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2021-000019",
+      "name": "Sample Honda Civic #19",
+      "make_key": "bmw-328i",
+      "bay_id": "st-driveway",
+      "service_interval_days": 5,
+      "last_serviced": "2021-05-14",
+      "purchase_date": "2021-04-27",
+      "labor_hours": 12,
+      "tag_ids": [
+        "tag-10",
+        "tag-3"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2023-000020",
+      "name": "Peak Audi A4 #20",
+      "make_key": "tesla-model3",
+      "bay_id": "st-brake_service-bar",
+      "service_interval_days": 2,
+      "last_serviced": "2023-06-04",
+      "purchase_date": "2023-05-27",
+      "labor_hours": 12,
+      "tag_ids": [
+        "tag-5",
+        "tag-8"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2021-000021",
+      "name": "Peak Ford F150 #21",
+      "make_key": "bmw-328i",
+      "bay_id": "st-workbench",
+      "service_interval_days": 7,
+      "last_serviced": "2021-01-26",
+      "purchase_date": "2021-01-07",
+      "labor_hours": 15,
+      "tag_ids": [
+        "tag-5"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2024-000022",
+      "name": "Resting Hyundai Elantra #22",
+      "make_key": "bmw-328i",
+      "bay_id": "st-storage-unit",
+      "service_interval_days": 3,
+      "last_serviced": "2024-08-19",
+      "purchase_date": "2024-08-15",
+      "labor_hours": 12,
+      "tag_ids": [
+        "tag-4",
+        "tag-11"
+      ],
+      "notes": "guest bag"
+    },
+    {
+      "id": "bn-2021-000023",
+      "name": "Peak Bmw 328I #23",
+      "make_key": "audi-a4",
+      "bay_id": "st-storage-unit",
+      "service_interval_days": 1,
+      "last_serviced": "2021-08-26",
+      "purchase_date": "2021-08-24",
+      "labor_hours": 15,
+      "tag_ids": [],
+      "notes": "storage-unit stash"
+    },
+    {
+      "id": "bn-2021-000024",
+      "name": "Peak Audi A4 #24",
+      "make_key": "hyundai-elantra",
+      "bay_id": "st-odometer-zone",
+      "service_interval_days": 7,
+      "last_serviced": "2021-05-19",
+      "purchase_date": "2021-05-17",
+      "labor_hours": 18,
+      "tag_ids": [
+        "tag-3"
+      ],
+      "notes": "resting"
+    },
+    {
+      "id": "bn-2022-000025",
+      "name": "Fresh Honda Civic #25",
+      "make_key": "tesla-model3",
+      "bay_id": "st-driveway",
+      "service_interval_days": 7,
+      "last_serviced": "2022-07-24",
+      "purchase_date": "2022-07-23",
+      "labor_hours": 12,
+      "tag_ids": [
+        "tag-12"
+      ],
+      "notes": "guest bag"
+    }
+  ],
+  "makes": [
+    {
+      "key": "toyota-camry",
+      "name": "Toyota Camry"
+    },
+    {
+      "key": "honda-civic",
+      "name": "Honda Civic"
+    },
+    {
+      "key": "ford-f150",
+      "name": "Ford F150"
+    },
+    {
+      "key": "bmw-328i",
+      "name": "Bmw 328I"
+    },
+    {
+      "key": "mazda-cx5",
+      "name": "Mazda Cx5"
+    },
+    {
+      "key": "subaru-outback",
+      "name": "Subaru Outback"
+    },
+    {
+      "key": "tesla-model3",
+      "name": "Tesla Model3"
+    },
+    {
+      "key": "jeep-wrangler",
+      "name": "Jeep Wrangler"
+    },
+    {
+      "key": "audi-a4",
+      "name": "Audi A4"
+    },
+    {
+      "key": "hyundai-elantra",
+      "name": "Hyundai Elantra"
+    }
+  ],
+  "bays": [
+    {
+      "id": "st-driveway",
+      "name": "driveway"
+    },
+    {
+      "id": "st-garage-bay-a",
+      "name": "garage-bay-a"
+    },
+    {
+      "id": "st-storage-unit",
+      "name": "storage-unit"
+    },
+    {
+      "id": "st-odometer-zone",
+      "name": "odometer-zone"
+    },
+    {
+      "id": "st-brake_service-bar",
+      "name": "brake_service-bar"
+    },
+    {
+      "id": "st-workbench",
+      "name": "workbench"
+    }
+  ],
+  "service_events": [
+    {
+      "id": "br-750991",
+      "vehicle_id": "bn-2021-000003",
+      "serviced_at": "2021-12-18",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 210
+    },
+    {
+      "id": "br-420299",
+      "vehicle_id": "bn-2021-000021",
+      "serviced_at": "2021-01-09",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 201
+    },
+    {
+      "id": "br-970059",
+      "vehicle_id": "bn-2025-000007",
+      "serviced_at": "2025-10-29",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 259
+    },
+    {
+      "id": "br-102029",
+      "vehicle_id": "bn-2024-000014",
+      "serviced_at": "2024-07-20",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 242
+    },
+    {
+      "id": "br-351939",
+      "vehicle_id": "bn-2022-000025",
+      "serviced_at": "2022-07-05",
+      "method": "tire_rotation",
+      "labor_hours": 12,
+      "parts_cost": 282
+    },
+    {
+      "id": "br-666073",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-02-26",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 258
+    },
+    {
+      "id": "br-167007",
+      "vehicle_id": "bn-2024-000005",
+      "serviced_at": "2024-05-19",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 201
+    },
+    {
+      "id": "br-789947",
+      "vehicle_id": "bn-2025-000007",
+      "serviced_at": "2025-11-12",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 291
+    },
+    {
+      "id": "br-190616",
+      "vehicle_id": "bn-2025-000002",
+      "serviced_at": "2025-05-09",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 209
+    },
+    {
+      "id": "br-217729",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-02-16",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 320
+    },
+    {
+      "id": "br-202899",
+      "vehicle_id": "bn-2024-000001",
+      "serviced_at": "2024-11-09",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 317
+    },
+    {
+      "id": "br-208921",
+      "vehicle_id": "bn-2024-000004",
+      "serviced_at": "2024-09-10",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 222
+    },
+    {
+      "id": "br-743316",
+      "vehicle_id": "bn-2022-000008",
+      "serviced_at": "2022-03-09",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 318
+    },
+    {
+      "id": "br-501148",
+      "vehicle_id": "bn-2022-000008",
+      "serviced_at": "2022-03-06",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 319
+    },
+    {
+      "id": "br-648400",
+      "vehicle_id": "bn-2025-000006",
+      "serviced_at": "2025-04-15",
+      "method": "transmission_flush",
+      "labor_hours": 20,
+      "parts_cost": 273
+    },
+    {
+      "id": "br-502777",
+      "vehicle_id": "bn-2025-000002",
+      "serviced_at": "2025-05-06",
+      "method": "transmission_flush",
+      "labor_hours": 12,
+      "parts_cost": 284
+    },
+    {
+      "id": "br-798610",
+      "vehicle_id": "bn-2024-000001",
+      "serviced_at": "2024-11-07",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 280
+    },
+    {
+      "id": "br-364782",
+      "vehicle_id": "bn-2024-000005",
+      "serviced_at": "2024-05-10",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 289
+    },
+    {
+      "id": "br-297494",
+      "vehicle_id": "bn-2020-000011",
+      "serviced_at": "2020-10-31",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 233
+    },
+    {
+      "id": "br-048989",
+      "vehicle_id": "bn-2024-000022",
+      "serviced_at": "2024-08-16",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 209
+    },
+    {
+      "id": "br-206591",
+      "vehicle_id": "bn-2024-000012",
+      "serviced_at": "2024-01-12",
+      "method": "tire_rotation",
+      "labor_hours": 12,
+      "parts_cost": 288
+    },
+    {
+      "id": "br-897712",
+      "vehicle_id": "bn-2025-000002",
+      "serviced_at": "2025-04-21",
+      "method": "tire_rotation",
+      "labor_hours": 12,
+      "parts_cost": 239
+    },
+    {
+      "id": "br-977047",
+      "vehicle_id": "bn-2024-000012",
+      "serviced_at": "2024-01-03",
+      "method": "brake_service",
+      "labor_hours": 12,
+      "parts_cost": 237
+    },
+    {
+      "id": "br-201475",
+      "vehicle_id": "bn-2021-000013",
+      "serviced_at": "2021-06-20",
+      "method": "v60",
+      "labor_hours": 20,
+      "parts_cost": 202
+    },
+    {
+      "id": "br-305278",
+      "vehicle_id": "bn-2024-000004",
+      "serviced_at": "2024-09-28",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 295
+    },
+    {
+      "id": "br-451511",
+      "vehicle_id": "bn-2024-000004",
+      "serviced_at": "2024-09-17",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 278
+    },
+    {
+      "id": "br-078579",
+      "vehicle_id": "bn-2020-000017",
+      "serviced_at": "2020-05-28",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 247
+    },
+    {
+      "id": "br-670515",
+      "vehicle_id": "bn-2021-000021",
+      "serviced_at": "2021-01-05",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 299
+    },
+    {
+      "id": "br-734587",
+      "vehicle_id": "bn-2021-000019",
+      "serviced_at": "2021-05-03",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 284
+    },
+    {
+      "id": "br-240038",
+      "vehicle_id": "bn-2021-000013",
+      "serviced_at": "2021-06-29",
+      "method": "transmission_flush",
+      "labor_hours": 20,
+      "parts_cost": 253
+    },
+    {
+      "id": "br-135016",
+      "vehicle_id": "bn-2020-000017",
+      "serviced_at": "2020-05-22",
+      "method": "tire_rotation",
+      "labor_hours": 18,
+      "parts_cost": 282
+    },
+    {
+      "id": "br-105706",
+      "vehicle_id": "bn-2023-000018",
+      "serviced_at": "2023-08-30",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 279
+    },
+    {
+      "id": "br-227428",
+      "vehicle_id": "bn-2025-000002",
+      "serviced_at": "2025-04-15",
+      "method": "transmission_flush",
+      "labor_hours": 12,
+      "parts_cost": 270
+    },
+    {
+      "id": "br-417683",
+      "vehicle_id": "bn-2021-000023",
+      "serviced_at": "2021-08-10",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 287
+    },
+    {
+      "id": "br-227085",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-02-27",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 202
+    },
+    {
+      "id": "br-132058",
+      "vehicle_id": "bn-2021-000023",
+      "serviced_at": "2021-08-02",
+      "method": "tire_rotation",
+      "labor_hours": 15,
+      "parts_cost": 224
+    },
+    {
+      "id": "br-973494",
+      "vehicle_id": "bn-2023-000020",
+      "serviced_at": "2023-05-11",
+      "method": "transmission_flush",
+      "labor_hours": 12,
+      "parts_cost": 219
+    },
+    {
+      "id": "br-962824",
+      "vehicle_id": "bn-2020-000017",
+      "serviced_at": "2020-05-28",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 267
+    },
+    {
+      "id": "br-845021",
+      "vehicle_id": "bn-2022-000025",
+      "serviced_at": "2022-07-14",
+      "method": "battery_check",
+      "labor_hours": 12,
+      "parts_cost": 315
+    },
+    {
+      "id": "br-850455",
+      "vehicle_id": "bn-2024-000022",
+      "serviced_at": "2024-07-26",
+      "method": "battery_check",
+      "labor_hours": 12,
+      "parts_cost": 308
+    },
+    {
+      "id": "br-632365",
+      "vehicle_id": "bn-2020-000017",
+      "serviced_at": "2020-05-21",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 275
+    },
+    {
+      "id": "br-267704",
+      "vehicle_id": "bn-2022-000025",
+      "serviced_at": "2022-06-25",
+      "method": "tire_rotation",
+      "labor_hours": 12,
+      "parts_cost": 317
+    },
+    {
+      "id": "br-915298",
+      "vehicle_id": "bn-2022-000008",
+      "serviced_at": "2022-02-19",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 225
+    },
+    {
+      "id": "br-137560",
+      "vehicle_id": "bn-2021-000019",
+      "serviced_at": "2021-05-03",
+      "method": "battery_check",
+      "labor_hours": 12,
+      "parts_cost": 245
+    },
+    {
+      "id": "br-305916",
+      "vehicle_id": "bn-2024-000012",
+      "serviced_at": "2023-12-16",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 213
+    },
+    {
+      "id": "br-674288",
+      "vehicle_id": "bn-2020-000017",
+      "serviced_at": "2020-05-25",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 208
+    },
+    {
+      "id": "br-640148",
+      "vehicle_id": "bn-2020-000015",
+      "serviced_at": "2020-02-22",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 266
+    },
+    {
+      "id": "br-082573",
+      "vehicle_id": "bn-2023-000018",
+      "serviced_at": "2023-09-12",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 227
+    },
+    {
+      "id": "br-044103",
+      "vehicle_id": "bn-2024-000005",
+      "serviced_at": "2024-04-27",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 319
+    },
+    {
+      "id": "br-743753",
+      "vehicle_id": "bn-2024-000005",
+      "serviced_at": "2024-05-17",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 274
+    },
+    {
+      "id": "br-855809",
+      "vehicle_id": "bn-2021-000019",
+      "serviced_at": "2021-05-05",
+      "method": "transmission_flush",
+      "labor_hours": 12,
+      "parts_cost": 231
+    },
+    {
+      "id": "br-477271",
+      "vehicle_id": "bn-2025-000006",
+      "serviced_at": "2025-04-16",
+      "method": "v60",
+      "labor_hours": 20,
+      "parts_cost": 319
+    },
+    {
+      "id": "br-639341",
+      "vehicle_id": "bn-2023-000018",
+      "serviced_at": "2023-09-13",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 264
+    },
+    {
+      "id": "br-216685",
+      "vehicle_id": "bn-2021-000024",
+      "serviced_at": "2021-05-18",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 236
+    },
+    {
+      "id": "br-522266",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-03-15",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 272
+    },
+    {
+      "id": "br-961612",
+      "vehicle_id": "bn-2024-000014",
+      "serviced_at": "2024-07-25",
+      "method": "battery_check",
+      "labor_hours": 12,
+      "parts_cost": 245
+    },
+    {
+      "id": "br-371696",
+      "vehicle_id": "bn-2024-000012",
+      "serviced_at": "2024-01-12",
+      "method": "brake_service",
+      "labor_hours": 12,
+      "parts_cost": 243
+    },
+    {
+      "id": "br-426514",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-02-24",
+      "method": "tire_rotation",
+      "labor_hours": 18,
+      "parts_cost": 288
+    },
+    {
+      "id": "br-842804",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-03-14",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 268
+    },
+    {
+      "id": "br-577887",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-02-26",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 222
+    },
+    {
+      "id": "br-426558",
+      "vehicle_id": "bn-2025-000007",
+      "serviced_at": "2025-11-19",
+      "method": "tire_rotation",
+      "labor_hours": 15,
+      "parts_cost": 250
+    },
+    {
+      "id": "br-705939",
+      "vehicle_id": "bn-2021-000019",
+      "serviced_at": "2021-04-17",
+      "method": "battery_check",
+      "labor_hours": 12,
+      "parts_cost": 285
+    },
+    {
+      "id": "br-480995",
+      "vehicle_id": "bn-2024-000001",
+      "serviced_at": "2024-11-07",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 277
+    },
+    {
+      "id": "br-267378",
+      "vehicle_id": "bn-2020-000010",
+      "serviced_at": "2020-04-06",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 319
+    },
+    {
+      "id": "br-459629",
+      "vehicle_id": "bn-2024-000000",
+      "serviced_at": "2024-06-10",
+      "method": "battery_check",
+      "labor_hours": 15,
+      "parts_cost": 229
+    },
+    {
+      "id": "br-813337",
+      "vehicle_id": "bn-2025-000002",
+      "serviced_at": "2025-05-05",
+      "method": "tire_rotation",
+      "labor_hours": 12,
+      "parts_cost": 261
+    },
+    {
+      "id": "br-133419",
+      "vehicle_id": "bn-2023-000018",
+      "serviced_at": "2023-09-14",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 266
+    },
+    {
+      "id": "br-549986",
+      "vehicle_id": "bn-2023-000018",
+      "serviced_at": "2023-09-16",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 318
+    },
+    {
+      "id": "br-211496",
+      "vehicle_id": "bn-2021-000024",
+      "serviced_at": "2021-05-12",
+      "method": "transmission_flush",
+      "labor_hours": 18,
+      "parts_cost": 316
+    },
+    {
+      "id": "br-504043",
+      "vehicle_id": "bn-2020-000010",
+      "serviced_at": "2020-04-19",
+      "method": "tire_rotation",
+      "labor_hours": 15,
+      "parts_cost": 203
+    },
+    {
+      "id": "br-675295",
+      "vehicle_id": "bn-2024-000005",
+      "serviced_at": "2024-04-26",
+      "method": "battery_check",
+      "labor_hours": 18,
+      "parts_cost": 275
+    },
+    {
+      "id": "br-707472",
+      "vehicle_id": "bn-2022-000025",
+      "serviced_at": "2022-07-23",
+      "method": "v60",
+      "labor_hours": 12,
+      "parts_cost": 213
+    },
+    {
+      "id": "br-273786",
+      "vehicle_id": "bn-2021-000024",
+      "serviced_at": "2021-05-02",
+      "method": "brake_service",
+      "labor_hours": 18,
+      "parts_cost": 278
+    },
+    {
+      "id": "br-356133",
+      "vehicle_id": "bn-2024-000000",
+      "serviced_at": "2024-05-20",
+      "method": "v60",
+      "labor_hours": 15,
+      "parts_cost": 218
+    },
+    {
+      "id": "br-726521",
+      "vehicle_id": "bn-2020-000016",
+      "serviced_at": "2020-03-12",
+      "method": "v60",
+      "labor_hours": 18,
+      "parts_cost": 304
+    },
+    {
+      "id": "br-260143",
+      "vehicle_id": "bn-2024-000001",
+      "serviced_at": "2024-11-12",
+      "method": "brake_service",
+      "labor_hours": 15,
+      "parts_cost": 251
+    },
+    {
+      "id": "br-692984",
+      "vehicle_id": "bn-2022-000025",
+      "serviced_at": "2022-07-19",
+      "method": "transmission_flush",
+      "labor_hours": 12,
+      "parts_cost": 270
+    },
+    {
+      "id": "br-826733",
+      "vehicle_id": "bn-2021-000003",
+      "serviced_at": "2021-11-28",
+      "method": "transmission_flush",
+      "labor_hours": 15,
+      "parts_cost": 215
+    }
+  ],
+  "inspection_logs": [],
+  "tags": []
+}

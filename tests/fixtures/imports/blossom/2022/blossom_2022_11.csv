@@ -1,0 +1,41 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,snake-plant,Bedroom,10,2021-05-15,xxxxxxxxxxxxxxxxxx
+Plant 1,zz-plant,Bedroom,10,2021-08-07,x
+Plant 2,pothos,Living Room,10,2024-08-02,xxxxxxxxxxxxx
+Plant 3,snake-plant,Kitchen,5,2021-09-16,xxxxxxxxxx
+Plant 4,monstera,Office,14,2019-02-03,xxxxxxx
+Plant 5,zz-plant,Kitchen,7,2025-04-09,xxxxxxxxxxxx
+Plant 6,zz-plant,Kitchen,7,2021-03-09,
+Plant 7,monstera,Living Room,5,2021-08-12,xxxxxxxxxxxxxxxxxxxx
+Plant 8,zz-plant,Living Room,5,2019-02-09,xxxxxxxxxxxxxxxxx
+Plant 9,zz-plant,Office,10,2022-11-11,xxxxxxxxxxx
+Plant 10,monstera,Kitchen,7,2019-11-09,xxxxxxxxx
+Plant 11,monstera,Office,5,2025-06-25,xxx
+Plant 12,monstera,Living Room,5,2025-01-12,xxx
+Plant 13,snake-plant,Living Room,14,2021-11-26,xxxx
+Plant 14,zz-plant,Office,5,2021-09-16,xxxxxxxxxxxx
+Plant 15,monstera,Office,14,2019-10-06,xxxxxxxxxxxxx
+Plant 16,zz-plant,Office,5,2025-04-01,xxxxx
+Plant 17,zz-plant,Living Room,7,2023-09-13,xxxxxxxxxxxxxx
+Plant 18,pothos,Office,5,2025-08-07,xxxxxxxxxxx
+Plant 19,snake-plant,Kitchen,10,2019-06-24,x
+Plant 20,zz-plant,Bedroom,10,2019-02-26,xxxxx
+Plant 21,zz-plant,Office,5,2023-04-10,xxxxxxxxxxxx
+Plant 22,snake-plant,Office,5,2023-11-24,xxxxxxxxx
+Plant 23,monstera,Bedroom,7,2020-12-17,xxxxxxxxxxxxx
+Plant 24,pothos,Bedroom,14,2024-08-18,xxxx
+Plant 25,snake-plant,Bedroom,14,2022-11-24,
+Plant 26,monstera,Living Room,7,2019-02-27,xxxxx
+Plant 27,zz-plant,Office,7,2025-02-25,xxxxxxxxxxxxx
+Plant 28,snake-plant,Living Room,7,2020-03-21,xxxxxxxxxxx
+Plant 29,zz-plant,Bedroom,5,2024-04-19,xxxxxx
+Plant 30,monstera,Living Room,14,2024-07-20,xx
+Plant 31,pothos,Living Room,7,2022-08-21,xxxxxxxxxxx
+Plant 32,zz-plant,Office,14,2023-02-19,xxxxxxxxxxxxxx
+Plant 33,pothos,Living Room,14,2020-10-28,xxxxx
+Plant 34,monstera,Kitchen,5,2025-04-14,xxxxxx
+Plant 35,monstera,Office,5,2025-12-28,xxxxxx
+Plant 36,pothos,Bedroom,5,2024-08-22,xxxxxxxxxx
+Plant 37,zz-plant,Kitchen,14,2023-12-04,xxxxxxx
+Plant 38,zz-plant,Living Room,10,2022-07-23,xxxxxxxx
+Plant 39,monstera,Office,7,2021-10-28,xx

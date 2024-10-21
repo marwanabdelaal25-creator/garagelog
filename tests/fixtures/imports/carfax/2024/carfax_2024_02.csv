@@ -1,0 +1,42 @@
+bed,section,row,plant_name,species,quantity,notes
+Bed-1,Kitchen,1,Plant 0,ZZ Plant,2,xx
+Bed-2,Office,2,Plant 1,Snake Plant,1,xxxxxxxxxxxxxxxx
+Bed-3,Living Room,3,Plant 2,Pothos,1,xxxx
+Bed-4,Living Room,4,Plant 3,ZZ Plant,1,xxxxxxx
+Bed-1,Office,5,Plant 4,Pothos,1,xxxxxxxxx
+Bed-2,Living Room,6,Plant 5,Pothos,3,xxxxxxxxxxxxxxxxxxxx
+Bed-3,Bedroom,1,Plant 6,Pothos,3,xxxxxx
+Bed-4,Living Room,2,Plant 7,Snake Plant,2,xxxxxxxxxxx
+Bed-1,Living Room,3,Plant 8,Snake Plant,1,xxxxxxxxx
+Bed-2,Living Room,4,Plant 9,Pothos,2,xxxxxxxx
+Bed-3,Living Room,5,Plant 10,ZZ Plant,3,xxxxxxxx
+Bed-4,Kitchen,6,Plant 11,Monstera,2,xxxxxxxxxxxxxxxxxxx
+Bed-1,Office,1,Plant 12,Monstera,2,xxxxxxxx
+Bed-2,Office,2,Plant 13,Monstera,2,xxxxxx
+Bed-3,Bedroom,3,Plant 14,Monstera,1,xxxxxxxx
+Bed-4,Kitchen,4,Plant 15,Monstera,1,xxxx
+Bed-1,Living Room,5,Plant 16,Snake Plant,2,xxxxxxx
+Bed-2,Kitchen,6,Plant 17,Pothos,3,xx
+Bed-3,Office,1,Plant 18,ZZ Plant,1,xxxxxxxxx
+Bed-4,Bedroom,2,Plant 19,Monstera,3,xxxxxx
+Bed-1,Kitchen,3,Plant 20,Snake Plant,3,xxxxxxxxxx
+Bed-2,Bedroom,4,Plant 21,Snake Plant,1,xxxxxxxxxxxxxxxxx
+Bed-3,Kitchen,5,Plant 22,ZZ Plant,1,xxxxxxxxxxxxxxxxxxx
+Bed-4,Kitchen,6,Plant 23,Snake Plant,2,xxxxxxxxxxxxxx
+Bed-1,Bedroom,1,Plant 24,Snake Plant,3,xxxxxxxxxxxxxxxxxxxx
+Bed-2,Kitchen,2,Plant 25,Snake Plant,2,xxxxxxxx
+Bed-3,Living Room,3,Plant 26,Monstera,3,xx
+Bed-4,Office,4,Plant 27,ZZ Plant,3,xxxxxxxxxxxxxxxxxxx
+Bed-1,Office,5,Plant 28,ZZ Plant,1,xxxxxxxxxxxxxxxxx
+Bed-2,Kitchen,6,Plant 29,ZZ Plant,3,xxxxx
+Bed-3,Bedroom,1,Plant 30,Snake Plant,3,xxxxxxxxxxxxxxxx
+Bed-4,Bedroom,2,Plant 31,Pothos,1,xxxxx
+Bed-1,Bedroom,3,Plant 32,Pothos,1,xxxxxxxxxxxx
+Bed-2,Kitchen,4,Plant 33,ZZ Plant,3,xxxxxxxxxxxxxxxxxxx
+Bed-3,Living Room,5,Plant 34,Snake Plant,3,x
+Bed-4,Bedroom,6,Plant 35,Monstera,3,xxxxxxxxxxxxxxxx
+Bed-1,Bedroom,1,Plant 36,Monstera,2,xxxxxxxxxxxxxxxxxxxx
+Bed-2,Living Room,2,Plant 37,Monstera,3,xxxxxxxxxxxxxxxxxxxx
+Bed-3,Living Room,3,Plant 38,ZZ Plant,3,xxxxxxxxxxxxx
+Bed-4,Bedroom,4,Plant 39,Pothos,1,xxxxxxxxxxxxxxxxx
+Bed-1,Kitchen,5,Plant 40,Pothos,2,xxxxxxxxxxxxxxxxxx

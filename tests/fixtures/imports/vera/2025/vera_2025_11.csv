@@ -1,0 +1,40 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,monstera,Bedroom,14,2020-09-18,xxxxxxxxxxxxxxxx
+Plant 1,monstera,Kitchen,14,2021-12-11,xxxxxxxxxxxxxxxxxxxx
+Plant 2,monstera,Bedroom,14,2024-01-04,xxxxxxxxx
+Plant 3,snake-plant,Kitchen,5,2019-07-16,xxx
+Plant 4,pothos,Office,5,2021-06-03,xxxxxxxxxxxxx
+Plant 5,zz-plant,Kitchen,7,2024-03-06,xxxxxxxxxxxxxxxx
+Plant 6,zz-plant,Office,5,2019-01-22,xxxxxxxxxx
+Plant 7,pothos,Living Room,7,2020-07-09,xxxxxxxxx
+Plant 8,snake-plant,Kitchen,7,2022-03-26,xxxxxxxxxxxxxxxxxx
+Plant 9,monstera,Bedroom,14,2020-01-19,xxxxxxxxxx
+Plant 10,zz-plant,Kitchen,10,2021-12-04,xxxxxxxxx
+Plant 11,pothos,Living Room,5,2020-03-26,x
+Plant 12,snake-plant,Office,14,2021-06-15,xx
+Plant 13,monstera,Office,7,2022-01-05,xxxxxxxxxxx
+Plant 14,zz-plant,Bedroom,5,2024-04-23,xxxxxxxx
+Plant 15,zz-plant,Bedroom,7,2019-04-21,xxx
+Plant 16,pothos,Office,10,2023-08-08,xxxxxxxxxxxxxxxxx
+Plant 17,monstera,Living Room,14,2023-08-09,xxx
+Plant 18,pothos,Bedroom,5,2024-06-26,xxxxxxxxxxxxxxxx
+Plant 19,monstera,Bedroom,10,2020-05-07,xxxxxxxxxxxxx
+Plant 20,monstera,Living Room,14,2024-08-04,xxxxxxxx
+Plant 21,pothos,Living Room,14,2022-11-11,xxxxxxx
+Plant 22,monstera,Living Room,14,2020-04-01,xxxxxxxxxxx
+Plant 23,pothos,Living Room,10,2024-06-10,xxxxxx
+Plant 24,zz-plant,Bedroom,14,2021-12-27,x
+Plant 25,pothos,Office,14,2025-10-15,xxxxx
+Plant 26,snake-plant,Kitchen,7,2024-04-04,xx
+Plant 27,snake-plant,Living Room,5,2021-04-02,xxxxxxxxxxxxxxx
+Plant 28,pothos,Living Room,7,2024-02-08,xxxxxxxxxxx
+Plant 29,snake-plant,Office,7,2020-03-28,xxxxxxxxxxxxxxxxxx
+Plant 30,pothos,Bedroom,14,2020-03-17,xxxxxxxxxxxxxxx
+Plant 31,snake-plant,Bedroom,7,2024-09-20,xxxxxxxxxxxxxxxxxx
+Plant 32,zz-plant,Bedroom,7,2019-10-21,xxxx
+Plant 33,pothos,Office,5,2023-08-02,xxxxxx
+Plant 34,pothos,Living Room,5,2023-02-12,xxxxxxxxxx
+Plant 35,pothos,Living Room,7,2023-06-07,xxxxx
+Plant 36,pothos,Kitchen,5,2020-10-02,xxxxxxxxxxxxx
+Plant 37,zz-plant,Office,10,2021-11-12,x
+Plant 38,monstera,Bedroom,7,2021-06-15,xxxxxxxxxxxxxxxxxx

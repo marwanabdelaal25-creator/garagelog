@@ -1,0 +1,40 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,snake-plant,Office,7,2021-08-02,xxxxxxxxxxxxx
+Plant 1,pothos,Kitchen,7,2022-09-20,xxxxxxxxxxxxxxxx
+Plant 2,zz-plant,Living Room,7,2025-01-22,
+Plant 3,monstera,Kitchen,10,2019-07-16,xxxxx
+Plant 4,monstera,Office,10,2020-10-02,xxxxx
+Plant 5,monstera,Kitchen,10,2025-09-08,xxxxxxxxxxxxxxxxxxxx
+Plant 6,snake-plant,Office,14,2023-02-26,xx
+Plant 7,pothos,Kitchen,7,2025-06-07,xxxx
+Plant 8,pothos,Living Room,7,2022-09-13,xxxxxxxxxxxxxxx
+Plant 9,pothos,Kitchen,7,2020-07-23,xxx
+Plant 10,monstera,Kitchen,5,2022-12-04,xxxxxxxxxx
+Plant 11,pothos,Kitchen,5,2025-06-28,xxxxxxx
+Plant 12,snake-plant,Office,7,2019-05-17,xxxx
+Plant 13,zz-plant,Kitchen,14,2023-04-19,xxxxxxxxxxx
+Plant 14,zz-plant,Living Room,5,2023-10-12,x
+Plant 15,snake-plant,Living Room,5,2021-11-18,xxxxxxxxxxx
+Plant 16,snake-plant,Bedroom,7,2025-09-07,xxxxxxxxxxxxxxxxx
+Plant 17,snake-plant,Living Room,5,2020-07-09,xxxxxxxxxxxx
+Plant 18,pothos,Bedroom,7,2023-03-04,xxxxxxxx
+Plant 19,monstera,Kitchen,7,2024-01-14,xxxx
+Plant 20,pothos,Office,10,2023-01-22,xxxxxxx
+Plant 21,monstera,Office,10,2023-08-28,xxxxxxx
+Plant 22,monstera,Living Room,5,2019-05-19,xxxxx
+Plant 23,zz-plant,Office,10,2022-04-15,xxxxxxxxx
+Plant 24,snake-plant,Bedroom,14,2020-05-14,xxxx
+Plant 25,snake-plant,Living Room,5,2021-04-21,xxxxxxx
+Plant 26,zz-plant,Bedroom,5,2020-10-16,xxxxxxxxxxxxxxxxxx
+Plant 27,snake-plant,Office,14,2022-12-09,xxxxxxxxxxxxxxxxxx
+Plant 28,snake-plant,Living Room,5,2019-05-23,xxxxxxxxxxxxxx
+Plant 29,pothos,Living Room,5,2022-06-20,xxx
+Plant 30,pothos,Kitchen,7,2019-11-25,xxxx
+Plant 31,monstera,Living Room,7,2021-08-17,xxxxxxxxxxxxxxxxxx
+Plant 32,monstera,Office,10,2023-07-22,xxxxxxxxxxxxxxxxxxxx
+Plant 33,zz-plant,Kitchen,14,2025-12-07,xxxxxxxxxxxxxxxxxxx
+Plant 34,monstera,Kitchen,10,2024-04-24,xxxxxxxxxxxxxxx
+Plant 35,pothos,Bedroom,10,2022-07-19,xx
+Plant 36,monstera,Office,10,2021-07-20,xxxxxxxxxxxxxx
+Plant 37,zz-plant,Bedroom,10,2025-09-05,xxxxxx
+Plant 38,snake-plant,Office,5,2021-01-26,xxxxxxxxxxxxxx

@@ -1,0 +1,41 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,monstera,Bedroom,14,2021-10-14,xxxxxxxxxxxxx
+Plant 1,pothos,Living Room,7,2021-06-16,xxxxx
+Plant 2,monstera,Kitchen,10,2020-06-10,xxxxxxxxx
+Plant 3,monstera,Living Room,10,2025-04-10,xxxxxxxxx
+Plant 4,snake-plant,Kitchen,5,2021-08-14,xxx
+Plant 5,pothos,Bedroom,7,2023-02-03,x
+Plant 6,pothos,Office,5,2019-02-07,xxxxxxxxxx
+Plant 7,pothos,Office,7,2024-04-17,xxx
+Plant 8,zz-plant,Bedroom,5,2021-02-01,xxxxxxx
+Plant 9,zz-plant,Bedroom,5,2024-11-06,xxxxxxxx
+Plant 10,monstera,Office,7,2023-08-18,xxxxxxxxxxxxxxx
+Plant 11,pothos,Office,10,2024-09-27,xxxxxxxxxxxxxxxxxx
+Plant 12,snake-plant,Office,7,2022-11-24,xxxxxxx
+Plant 13,snake-plant,Bedroom,7,2020-12-07,xxx
+Plant 14,monstera,Living Room,7,2021-06-20,x
+Plant 15,monstera,Kitchen,5,2021-01-01,xxxxxxxxxxxxxxxxx
+Plant 16,monstera,Bedroom,5,2024-02-24,xxx
+Plant 17,zz-plant,Living Room,14,2022-09-28,xxxxxxxx
+Plant 18,monstera,Living Room,10,2021-03-02,xxxxxx
+Plant 19,monstera,Office,7,2025-05-07,xxxxxxxx
+Plant 20,snake-plant,Office,5,2019-12-08,xxxxxxxxxxxx
+Plant 21,pothos,Living Room,7,2019-04-27,xxxxxx
+Plant 22,monstera,Bedroom,7,2020-11-23,xxx
+Plant 23,snake-plant,Kitchen,10,2024-04-26,xxxxxxxxxxxxxxx
+Plant 24,snake-plant,Office,5,2020-12-26,xxx
+Plant 25,zz-plant,Office,7,2023-06-04,xxxxxxx
+Plant 26,pothos,Office,10,2024-09-19,xxxxxxxxx
+Plant 27,zz-plant,Living Room,5,2019-10-06,xxx
+Plant 28,zz-plant,Kitchen,14,2023-06-25,xxxxxxxxxxxxxxxx
+Plant 29,snake-plant,Living Room,14,2019-04-07,xx
+Plant 30,snake-plant,Living Room,10,2024-03-21,xxxxxx
+Plant 31,zz-plant,Office,10,2025-10-23,xxxxxxxxxxxxxxx
+Plant 32,zz-plant,Office,7,2022-04-07,xx
+Plant 33,snake-plant,Living Room,10,2023-04-08,xxxxxxxxxxxxx
+Plant 34,pothos,Bedroom,10,2025-01-04,xxxxxxxxxx
+Plant 35,pothos,Bedroom,14,2023-08-11,xxxxxxxxxxxxxxxxxxxx
+Plant 36,monstera,Bedroom,7,2023-08-16,x
+Plant 37,snake-plant,Kitchen,10,2024-09-25,xxxx
+Plant 38,monstera,Living Room,7,2025-09-24,xxxxxxx
+Plant 39,pothos,Living Room,14,2022-07-05,xxxxx

@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,zz-plant,Living Room,10,2019-02-03,xxx
+Plant 1,zz-plant,Kitchen,10,2020-10-15,xxxxxxx
+Plant 2,zz-plant,Kitchen,5,2025-04-04,xxxxxxxxxxxxxxxxxx
+Plant 3,snake-plant,Office,7,2023-12-12,xxxxxxxxxxxx
+Plant 4,zz-plant,Bedroom,10,2023-01-16,xxxxxxxxxxxxxx
+Plant 5,monstera,Kitchen,5,2025-09-04,xxxxxxxxxxx
+Plant 6,snake-plant,Bedroom,7,2022-10-05,xxxxxxxxxxxxxxxxxx
+Plant 7,snake-plant,Bedroom,14,2025-11-23,xxxxxxxxxxxxxxx
+Plant 8,zz-plant,Office,10,2021-01-05,xxxxxxxxxxxxxxxxxx
+Plant 9,monstera,Office,5,2023-04-06,xxxxxxxxxxxx
+Plant 10,snake-plant,Living Room,7,2022-03-18,xxxxxxx
+Plant 11,snake-plant,Living Room,14,2022-12-17,x
+Plant 12,snake-plant,Living Room,7,2022-08-28,x
+Plant 13,zz-plant,Living Room,7,2025-02-27,x
+Plant 14,zz-plant,Office,5,2019-07-16,xxxxxxxxxxxx
+Plant 15,zz-plant,Office,7,2021-06-27,xxxxxxxxxxxxxxxxxxxx
+Plant 16,pothos,Bedroom,5,2022-09-05,xxxxxxxxxxxxxxx
+Plant 17,snake-plant,Office,14,2023-01-10,xxxxxxxxxxxxxx
+Plant 18,pothos,Living Room,14,2023-08-22,xxxxxxxxxxxxxx
+Plant 19,snake-plant,Office,14,2024-03-05,xxxxxxxxxxxxx
+Plant 20,pothos,Living Room,7,2023-02-21,xxxxxxxxxxx
+Plant 21,zz-plant,Kitchen,10,2024-08-01,xxx
+Plant 22,zz-plant,Bedroom,14,2024-06-16,xx
+Plant 23,pothos,Bedroom,10,2023-01-15,xx
+Plant 24,zz-plant,Living Room,10,2019-06-14,xxxxxxxxxx
+Plant 25,snake-plant,Kitchen,5,2021-08-28,xxxxxxxxxx
+Plant 26,pothos,Office,5,2025-11-09,
+Plant 27,monstera,Kitchen,7,2019-09-22,xxxxxxxxxxxxxxx
+Plant 28,monstera,Kitchen,7,2020-03-08,xxxxxxxxxx
+Plant 29,zz-plant,Living Room,7,2020-03-15,xxxxxxx
+Plant 30,monstera,Bedroom,10,2025-02-02,xxxxxxxx
+Plant 31,snake-plant,Kitchen,7,2024-04-24,xxxx
+Plant 32,pothos,Living Room,7,2025-01-27,xxxxxxxxxxxxxx
+Plant 33,pothos,Living Room,5,2024-08-26,xxxxxxxxxxxxx
+Plant 34,zz-plant,Bedroom,5,2019-10-05,x
+Plant 35,pothos,Kitchen,10,2023-12-25,xxxxxxxxxxx
+Plant 36,pothos,Kitchen,10,2023-09-10,x
+Plant 37,monstera,Office,10,2019-07-13,xxxxxxxxx
