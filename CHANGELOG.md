@@ -48,3 +48,4 @@ religiously but I tag releases when something actually ships.
 
 - Skeleton repo, README, first Vehicle dataclass
 - v0.3.0
+- v0.8.0
