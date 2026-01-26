@@ -116,3 +116,4 @@ vehicle = storage.create_vehicle(Vehicle.create("New Friend", service_interval_d
 
 Public API surface is in `garagelog.__init__` — vehicles, service, schedules, parsers,
 validators, errors.
+- faq 0
