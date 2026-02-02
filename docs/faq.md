@@ -118,3 +118,4 @@ Public API surface is in `garagelog.__init__` — vehicles, service, schedules, 
 validators, errors.
 - faq 0
 - faq 1
+- faq 2
